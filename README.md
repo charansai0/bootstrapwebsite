@@ -232,4 +232,5 @@ Publish the website in the given URL.
 
 
 ## Result:
+A Website using the bootstrap framework is generated successfully.
 
