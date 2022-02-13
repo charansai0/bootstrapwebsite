@@ -223,11 +223,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### HOME PAGE 
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/bootstrapwebsite/blob/main/11111.jpg?raw=true)
 ### ABOUT US PAGE 
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/bootstrapwebsite/blob/main/222222.jpg?raw=true)
 ### CONATACT US PAGE 
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/bootstrapwebsite/blob/main/3333.jpg?raw=true)
 
 
 
